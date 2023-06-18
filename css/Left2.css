@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1920px;
+    
+}
+#main{
+    background-image: url("../img/index2mainbackgrround.png");
+    width: 1920px;
+    height: 1080px;
+}
+#play{
+    background-image: url("../img/index2mainbackgrround.png");
+    width: 1920px;
+    height: 1080px;
+}
+#Play{
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 380px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: "Century Gothic";
+    -webkit-transform: rotate(-7deg);
+    font-weight: lighter;
+}
+#Survivor{
+    position: absolute;
+    margin-left: 1180px;
+    margin-top: 480px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: "Century Gothic";
+    -webkit-transform: rotate(-5deg);
+    font-weight: lighter;
+}
+#Achievement{
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: 580px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: "Century Gothic";
+    -webkit-transform: rotate(-5deg);
+    font-weight: lighter;
+}
+#CreativeYard{
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: 680px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: "Century Gothic";
+    -webkit-transform: rotate(-5deg);
+    font-weight: lighter;
+}
